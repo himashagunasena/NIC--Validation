@@ -1,0 +1,3 @@
+0 selfie
+1 Not valid selfie
+2 Wear mask

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971944508887",
+    "project_id": "liveness-285e1",
+    "storage_bucket": "liveness-285e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971944508887:android:c18401d0541ec5b63d1f92",
+        "android_client_info": {
+          "package_name": "com.example.livenessdetec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971944508887-e23s502pcrmp15f2qrmb86615bos24ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2gMO81u7HaUjJ6QJbr4b93H3g0KdEeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971944508887-e23s502pcrmp15f2qrmb86615bos24ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
